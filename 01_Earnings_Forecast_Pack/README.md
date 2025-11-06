@@ -1,5 +1,5 @@
 # Earnings Forecast Pack
-3-Scenario NOI→AFFO Model(Base/Bull/Bear), 4-Sensitivity Workbook(Sales/occupancy/WACC/CapEx tornado), Lease Expiry Tracking Template
+3-Scenario Lease→NOI→AFFO Model(Base/Bull/Bear), 4-Sensitivity Workbook(Sales Growth/occupancy/WACC/CapEx tornado), Lease Expiry Tracking Template
 
 A modular REITs forecasting framework integrating lease-level, operating, and capital assumptions.
 - Scope: 3-Scenario NOI→AFFO Model with 4-variable sensitivity engine and lease expiry tracking template.
