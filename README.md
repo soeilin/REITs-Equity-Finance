@@ -1,7 +1,6 @@
 # REITs-Equity-Finance
 
 Sector: Listed REITs • Equity Research
-Language: Excel + VBA + Python
 
 1. Earnings Forecast – NOI → FFO → AFFO (Base/Bull/Bear， 4 Sensitivity)
 2. Variance Reconciliation – Budget vs Actual ±bp explanation
