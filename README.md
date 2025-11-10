@@ -1,4 +1,4 @@
-# RealAsset-Finance
+# REITs-Equity-Finance
 
 Target Roles: Investment Analyst | Corporate Finance | Asset Management  
 Sector: Listed REITs • Infrastructure • Private Credit  
